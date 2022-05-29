@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Reporter>Valera Batkovich</Reporter>
+  <ID>04879</ID>
+  <Status>New</Status>
+  <Name>Button Commit changes doesn&#x27;t work</Name>
+  <Summary>After adding new info in file and pressing button commit changes page doesn&#x27;t update</Summary>
+  <STR>
+    <1.>Open file in repository</1.>
+    <2.>Edit the file</2.>
+    <3.>Press Commit changes button</3.>
+  </STR>
+  <Priority>1</Priority>
+  <Severity>critical</Severity>
+  <Expected_result>Page updates and redirect user to repository</Expected_result>
+  <Actual_result>Page stays still</Actual_result>
+</root>
